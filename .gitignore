@@ -1,0 +1,5 @@
+.dccache
+support.txt
+**/env/
+setup_tools/dist
+setup_tools/build/**
